@@ -1,0 +1,5 @@
+imutils
+pygame
+opencv-python
+dlib
+scipy-spatial
